@@ -1,0 +1,6 @@
+- langroid - https://github.com/langroid/langroid
+- CrewAI - https://github.com/crewAIInc/crewAI
+- Autogen - https://github.com/microsoft/autogen
+- LangChain - https://github.com/langchain-ai/langchain
+- Langflow - https://github.com/langflow-ai/langflow
+- PhiData - https://github.com/phidatahq/phidata
